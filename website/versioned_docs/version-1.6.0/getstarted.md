@@ -186,7 +186,7 @@ Replace `nginx` with the name of your deployment.
 
 <div class="danger">
 <strong>NOTE</strong>:
-Litmus supports chaos on deployments, statefulsets & daemonsets. This example refers to a nginx deploymemt. In case
+Litmus supports chaos on deployments, statefulsets & daemonsets. This example refers to a nginx deployment. In case
 of other types, please use the appropriate resource/resource-name convention (say, `sts/kafka` or `ds/node-device-manager`, for example).
 </div>
 
